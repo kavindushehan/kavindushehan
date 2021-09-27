@@ -5,8 +5,6 @@
 ##
 
 - 💬 Ask me about **Java, Python, ReactJS, HTML&CSS, JS, C, C++**
-<br/>
-
 ##
 ## 📊 My Github Stats
 
