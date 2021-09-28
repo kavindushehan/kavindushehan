@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindu+Shehan;SLIIT+Undergraduate)](https://git.io/typing-svg)
-
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindu+Shehan;SLIIT+Undergraduate)](https://git.io/typing-svg)
 
 - 💬 Ask me about **Java, Python, ReactJS, HTML&CSS, JS, C, C++**
 ##
