@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavindu Shehan</h1>
-
-<h3 align="center">SLIIT Undegraduate</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindu+Shehan;SLIIT+Undergraduate)](https://git.io/typing-svg)
 
 ##
 
